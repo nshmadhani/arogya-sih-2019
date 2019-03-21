@@ -11,6 +11,17 @@ The roles and activities of community health workers ,CHW, are tailored to meet 
 - The RPI then streamed this data to our Web App using WebRTC
 - For the Video Streaming part we used WebRTC's streaming api
 
+![Diagram](Diagram.jpg)
+![Diagram](app.jpg)
+![Diagram](app1.jpg)
+![Diagram](app2.jpg)
+![Diagram](web.jpg)
+![Diagram](web1.jpg)
+![Diagram](web2.jpg)
+![Diagram](rpi.jpg)
+![Diagram](rpi2.jpg)
+
+
 ## Technology Used
 - **Backend**
     - Node.js
