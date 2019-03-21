@@ -34,12 +34,12 @@ The roles and activities of community health workers ,CHW, are tailored to meet 
 
 ## Contributors
 
-Nishay Madhani  – nshmadhani@gmail.com
-Vikrant Gajria -  mehta.yash919@gmail.com
-Yash Javeri - mehtabhavin10@gmail.com
-Rushabh Shroff
-Nishant Nimbare
-Palak Shah
+Nishay Madhani  – nshmadhani@gmail.com <br />
+Vikrant Gajria -  <br />
+Yash Javeri - <br />
+Rushabh Shroff <br />
+Nishant Nimbare <br />
+Palak Shah <br />
 
 
 
